@@ -59,12 +59,20 @@
 				CC0DA86E23EF61A2008C82F2 /* AppDelegate.swift */,
 				CC0DA87023EF61A2008C82F2 /* SceneDelegate.swift */,
 				CC0DA87223EF61A2008C82F2 /* ViewController.swift */,
+				CC0DA8A223EF6782008C82F2 /* New Group */,
 				CC0DA87423EF61A2008C82F2 /* Main.storyboard */,
 				CC0DA87723EF61A3008C82F2 /* Assets.xcassets */,
 				CC0DA87923EF61A3008C82F2 /* LaunchScreen.storyboard */,
 				CC0DA87C23EF61A3008C82F2 /* Info.plist */,
 			);
 			path = SampleProject01;
+			sourceTree = "<group>";
+		};
+		CC0DA8A223EF6782008C82F2 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
